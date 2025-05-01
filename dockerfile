@@ -1,0 +1,1 @@
+FROM node:lts-busterRUN git clone https://github.com/Chimbikoxd/ChrisM-xd/root/ChrisxdWORKDIR /root/ChrisxdRUN npm install && npm install -g pm2 || yarn install --network-concurrency 1COPY . .EXPOSE 9090CMD ["npm", "start"]
