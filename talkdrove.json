@@ -1,0 +1,36 @@
+@@ -0,0 +1,35 @@
+{
+    "bot-name": "ChrisM-xd",
+    "description": "ChrisM-xd, the best WhatsApp Bot",
+    "logo": "https://i.ibb.co/Q4QCHYd/copilot-image-1739572393172.jpg",
+    "keywords": ["whatsapp", "bot", "xd"],
+    "documentation-link": "chrismxdbot.vercel.app",
+    "owner-verification": "chimbiko202#@gmail.com", 
+  "env": {
+    "SESSION_ID": {
+      "description": "The session string used to authenticate the bot with WhatsApp. Must begin with 'CHRIS-BOT:~' or 'CHRISM-md:~'.",
+      "value": "",
+      "required": false
+    },
+    "BOT_NAME": {
+      "description": "Enter your bot name here (ChrisM-xd is cool, but feel free to name it something quirky!)",
+      "value": "ChrisM-xd",
+      "required": false
+    },
+    "OWNER_NUMBER": {
+      "description": "The display name of the bot as it will appear in interactions.",
+      "value": "",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "The primary owner's WhatsApp number, including country code (e.g., 2348XXXXXXXX).",
+      "value": "",
+      "required": true
+    },
+    "TIMEZONE": {
+      "description": "Timezone for the bot's internal clock (e.g., Africa/Nairobi). Used for time-based functions. Don't change or Google if you don't know!",
+      "value": "Africa/Nairobi",
+      "required": false
+    }
+  }
+}
