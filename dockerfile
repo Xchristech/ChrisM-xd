@@ -1,1 +1,7 @@
-FROM node:lts-busterRUN git clone https://github.com/Chimbikoxd/ChrisM-xd/root/ChrisxdWORKDIR /root/ChrisxdRUN npm install && npm install -g pm2 || yarn install --network-concurrency 1COPY . .EXPOSE 9090CMD ["npm", "start"]
+FROM node:lts-buster
+RUN git clone https://github.com/Chimbiko-xd/CHRISM-xd
+WORKDIR /root/ikmalvin
+RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+COPY . .
+EXPOSE 9090
+CMD ["npm", "start"]
