@@ -2,7 +2,7 @@ const { chris } = require('../chris');
 const { runtime } = require('../lib/functions');
 const config = require('../settings');
 
-malvin({
+chris({
     pattern: "uptime",
     alias: ["runtime", "up"],
     desc: "Show bot uptime with stylish formats",
