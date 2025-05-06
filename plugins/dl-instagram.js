@@ -1,7 +1,7 @@
 const axios = require("axios");
 const { chris } = require("../chris");
 
-malvin({
+chris({
   pattern: "igimagedl",
   alias: ["instagramimages", "igimages","igimage"],
   react: '📥',
