@@ -11,10 +11,10 @@
 ## 📊 Repo Insights
 
 <p align="center">
-  <img src="https://img.shields.io/github/forks/Chimbiko-xd/CHRISM-XD?style=flat&color=6A1B9A&logo=github&logoColor=white&label=Forks" />
-  <img src="https://img.shields.io/github/followers/Chimbiko-xd?style=flat&color=E91E63&logo=github&logoColor=white&label=Followers" />
-  <img src="https://img.shields.io/github/last-commit/Chimbiko-xd/CHRISM-XD?style=flat&color=FF5252&logo=git&logoColor=white&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/repo-size/Chimbiko-xd/CHRISM-XD?style=flat&color=FF7043&logo=database&logoColor=white&label=Repo%20Size" />
+  <img src="https://img.shields.io/github/forks/Chimbiko-xd/CHRISM-XD?style=flat&color=6A1B9A&logo=github&logoColor=black&label=Forks" />
+  <img src="https://img.shields.io/github/followers/Chimbiko-xd?style=flat&color=E91E63&logo=github&logoColor=black&label=Followers" />
+  <img src="https://img.shields.io/github/last-commit/Chimbiko-xd/CHRISM-XD?style=flat&color=FF5252&logo=git&logoColor=black&label=Last%20Commit" />
+  <img src="https://img.shields.io/github/repo-size/Chimbiko-xd/CHRISM-XD?style=flat&color=FF7043&logo=database&logoColor=black&label=Repo%20Size" />
   <img src="https://img.shields.io/github/package-json/v/Chimbiko-xd/CHRISM-XD?style=flat&color=FFEB3B&logo=npm&logoColor=black&label=Version" />
 </p>
 
@@ -46,7 +46,7 @@ Start by forking this repository to your own GitHub account. Click the button be
   
 > **PAIRiNG APP (All)**
   <a href='https://new-session-c3jx.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/Pair_App-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+    <img src='https://img.shields.io/badge/Pair_App-FF00FF?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000'/>
   </a>
   
 ### 📥 Get CHRISM-XD
