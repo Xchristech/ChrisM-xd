@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=CHRISM%20XDI%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=red&color=0:87CEEB,100:87CEEB&height=180&section=header&text=CHRISM%20XDI%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
 
   <p align="center">
-<a href="https://github.com/Chimbiko-xd/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chimbiko-xd/CHRISM-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Chimbiko-xd/CHRISM-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chimbiko-xd/CHRISM-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Chimbiko-xd/CHRISM-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chimbiko-xd/CHRISM-XD/"><img title="Size" src="https://img.shields.io/github/repo-size/Chimbiko-xd/PRINCE-MDXI?style=flat-square&color=green"></a>
+<a href="https://github.com/Chimbiko-xd/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=green&style=flat-square"></a>
+<a href="https://github.com/Chimbiko-xd/CHRISM-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Chimbiko-xd/CHRISM-XD?color=green&style=flat-square"></a>
+<a href="https://github.com/Chimbiko-xd/CHRISM-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Chimbiko-xd/CHRISM-XD?color=green&style=flat-square"></a>
+<a href="https://github.com/Chimbiko-xd/CHRISM-XD/"><img title="Size" src="https://img.shields.io/github/repo-size/Chimbiko-xd/CHRISM-XD?style=flat-triangle&color=green"></a>
 <a href="https://github.com/Chimbiko/CHRISM-XD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-blue.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -72,28 +72,28 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deployment-h4bs.onrender.com)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developer-a2js.onrender.com)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=muzantech/SIGMA-MDX&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20PRINCE-MDX&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=realtech/SIGMA-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20PRINCE-XD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
-<p style="text-align: center; font-size: 1.2em;">
+<p style="text-align: center; font-size: 1.3em;">
   
 <p align="">
-<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=36' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-developer?botId=36' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971KK?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">4. RAILWAY</h4>
-<p style="text-align: center; font-size: 1.2em;">
+<p style="text-align: center; font-size: 1.3em;">
 
 <p align="">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8711?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">5. RENDER</h4>
