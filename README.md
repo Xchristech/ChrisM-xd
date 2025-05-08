@@ -1,191 +1,156 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=CHRISM%20XDI%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
-</div>
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
-</p>
-
-<p align="center">
-  <img src="https://files.catbox.moe/juxfce.jpg" />
-</p>
-
-<!-- 📊 STATS & HERO CARTOON (Updated Colors) -->
-<div align="center">
-
-  <!-- GitHub Stats Badges with new color palette -->
-  <p>
-    <img src="https://img.shields.io/github/forks/Chimbiko-xd/CHRISM-XD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/Chimbiko-xd?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.pencil.io/github/last-commit/Chimbiko-xd/CHRISM-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.pencil.io/github/repo-size/Chimbiko-xd/CHRISM-XD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.pencil.io/github/package-json/v/Chimbiko-xd/CHRISM-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
-  </p>
-
-  <!-- Hero GIF with updated border & hover effect -->
-  <p>
-    <img src="https://i.imgur.com/LyHic3i.gif" alt="Techwave Animation" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
-  </p>
-
-</div>
-
-
-# CHRISM-XD Setup
-
-### 🚀 Fork the Repository
-
-To start, fork this repository to your own GitHub account by clicking the button below:
-
-<a href="https://github.com/Chimbiko-xd/CHRISM-XD/fork"><img src="https://img.shields.io/github/forks/Chinbiko-xd/CHRISM-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork CHRSM-XD" /></a>
-
----
-
-### 🔑 Get Pairing Code
-
-- **Session ID**  
-  <p align="left">
-    <a href="https://new-session-m3jx.onrender.com/pair" target="_blank"><img src="https://img.shields.io/badge/Session%20ID-000000?style=for-the-badge&logo=react&logoColor=white" alt="Get Pairing Code (Session ID)" /></a>
-  </p>
-
-- **creds.json**  
-  <p align="left">
-    <a href="https://taira-web-service.onrender.com/pair/" target="_blank"><img src="https://img.shields.io/badge/creds.json-ff0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Get Pairing Code (creds.json)" /></a>
-  </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
-</p>
-
-- **Session App**  
-  <p align="left">
-    <a href="[https://new-session-m3jx.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white" alt="Get Pairing Code (Session ID)" /></a>
-  </p>
-
-
-
-
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
-</p>
-
-<p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/warning.gif?raw=true" width="15" />
-  <em>Having connection issues? Try using a VPN.</em>
-</p>
-
-
-<div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
-</div>
-
-<h2 align="center">🚀 Deployment Options</h2>
-
-<div align="center">
-  <table cellspacing="20">
-    <tr>
-      <td align="center">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing3/MALVIN-XD" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-FF2D95?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://railway.app/new" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Railway-121212?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://dashboard.render.com/web/new" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://app.netlify.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Netlify-00ADB5?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://talkdrove.com" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20via-TalkDrove-6B47FF?style=for-the-badge&logo=github&logoColor=white" alt="TalkDrove"/>
-        </a>
-      </td>
-    </tr>
-  </table>
 
   <p align="center">
-    <a href="https://whatsapp.com/channel//0029VbAWP72CsU9OoOqVhb2g " target="_blank">
-      <img src="https://img.shields.io/badge/View_Workflows-90D366?style=for-the-badge&logo=git&logoColor=blue" alt="Workflow Codes"/>
-    </a>
-  </p>
-
-  <img src="https://github.com/Chimbiko-xd/CHRISM-XD/blob/main/assets/techwave.gif?raw=true" width="100%" alt="Divider"/>
-</div>
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+<a href="https://github.com/Chimbiko-xd/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
+<a href="https://github.com/Chimbiko-xd/CHRISM-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mayelprince/PRINCE-MDXI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mayelprince/PRINCE-MDXI/"><img title="Size" src="https://img.shields.io/github/repo-size/Mayelprince/PRINCE-MDXI?style=flat-square&color=green"></a>
+<a href="https://github.com/Mayelprince/PRINCE-MDXI/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
 </p>
 
-## 📦 Download CHRISM‑XD file
-
-> Get the latest bot zip file for panel deployment:
-
-[![Download ZIP](https://img.shields.io/badge/Download_CHRISM--XD-FF5722?style=flat-square&logo=github&logoColor=white)](https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip)
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
-</p>
-
-### ⚠️ Disclaimer
-
-- 🔒 This bot is **not affiliated with WhatsApp Inc.** Use it responsibly.  
-- 🚨 **Misuse may lead to account bans.**  
-- ❌ **Cloning or modifying the bot without permission is prohibited.**
-
+> **CURRENT BOT VERSION ➜ `2.0.0 ⚡`**
 ---
 
-## 🗃️ PROJECT ARCHITECTS
-
-<p align="center">
-  <a href="https://github.com/Chimbiko-xd">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chimbiko-xd&show_icons=true&theme=radical">
-  </a>
-</p>
-<div align="center">
-  <img src="https://github.com/Chimbiko-xd/CHRISM-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
-</div>
-
-
-## 🪀  SUPPORT CHANNELS
-
-<div align="center">
-  <a href="https://whatsapp.com/channel/0029VbAWP72CsU9OoOqVhb2g
-  ">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-28D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Chimbiko-xd/CHRISM-XD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
-</div>
-
-> **Power up your beth journey – don’t miss updates, guides, or new commands!**
-
----
-
-## 💯 CHRIS STATUS
-
-```diff
-+ Project Status: Active
-! Version: 4.0.0 Neon Edition
-# License: APACHE
 ```
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
+```
+---
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=THANKS%20FOR%20CHOOSING%20CHRISM XD;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20PRINCE%20TECH" alt="Typing SVG" />
+</a>
 </p>
+  
+--- 
+
+<a><img src='https://files.catbox.moe/upmwpw.jpg'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+
+
+
+### 1. 𐃁FORK THIS REPOSITORY𐃁
+
+`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
+
+  <a href="https://github.com/Mayelprince/CHRISM-XD/fork"><img title="CHRISM-XD" src="https://img.shields.io/badge/FORK-CHRISM%20XD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. 𐃁GET SESSION ID𐃁 
+
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:234806xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+
+
+> **1. PAIR CODE SESSION ID**
+
+<a href='https://chrismeweb.onrender.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+> **2. PAIR CODE SESSION ID**
+
+<a href='https://princeweb.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+
+
+---
+
+### <h2 align="">𐃁CHRISM-XD DEPLOYMENT OPTIONS𐃁</h2>
+
+---
+
+### <h4 align="">1. HEROKU</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deployment-h4bs.onrender.com)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### <h4 align="">3. KOYEB</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="">
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=muzantech/SIGMA-MDX&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20PRINCE-MDX&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### <h4 align="">2. TALKDROVE FREE</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=36' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### <h4 align="">4. RAILWAY</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### <h4 align="">5. RENDER</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+  
+<b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+### <h4 align="">7. REPLIT</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## 🪀 WHATSAPP CHANNEL 
+STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAWP72CsU9OoOqVhb2g)
+
+## 🪀 WHATSAPP GROUP
+JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAWP72CsU9OoOqVhb2g)
+
+ 
+
+
+***
+
+
+ <br>
+<h2 align="center"> ⚠️ DISCLAIMER ⚠️
+ </h2>
+ 
+ ---
+
+<h3 align="center"> DON'T COPY WITHOUT PERMISSION 
+</h3>
+
+<br>
+
+```
+I'M CHRISM XD.
+```
+-----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+------
