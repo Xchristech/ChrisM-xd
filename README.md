@@ -1,5 +1,3 @@
-
-
 <img align="center" height="auto"
 src="https://i.imgur.com/1DkLGVk.jpeg">
 
@@ -8,14 +6,14 @@ src="https://i.imgur.com/1DkLGVk.jpeg">
 
    </p>
 <p align="center">
-<a href="https://github.com/OfficialKango"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Chimbiko-xd"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img href="https://wa.me/2348069675806"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialKango?color=purple&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Chimbiko-xd/followers"><img title="Followers" src="https://img.shields.io/github/followers/Chimbiko-xd?color=purple&style=flat-square"></a>
+<a href="https://github.com/Chimbiko-xd/CHRISX-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/CHRISX-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Chimbiko-xd/CHRISX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Chimbiko-xd/CHRISX-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Chimbiko-xd/CHRISX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Chimbiko-xd/CHRISX-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
@@ -31,7 +29,7 @@ src="https://i.imgur.com/1DkLGVk.jpeg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `CHRISM-XD INSTALLATION`
+## 🛠️ `KANGO-XMD INSTALLATION`
 
 
 
@@ -49,7 +47,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
 > Generate your session ID from the link below:
 <p align="left">
-  <a href="https://chrism-ef1f620b32d8.herokuapp.com/?">
+  <a href="https://kango-ef1f620b32d8.herokuapp.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
@@ -74,7 +72,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
  
-* `Fork` CHRISM-XD Repository or `sync` if you had forked.
+* `Fork` KANGO-XMD Repository or `sync` if you had forked.
 * `Link` to your WhatsApp using Server 1, 2 or 3
 * Incase you use Server 2, paste the session id on settings.js @SESSION_ID
 * If you used Server 3, upload the `creds.json` received in the `session` folder.
@@ -85,7 +83,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search CHRIM-XD, and connect.
+* Search KANGO-XMD, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -172,7 +170,7 @@ sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
 git clone https://github.com/OfficialKango/KANGO-XMD.git
-cd CHRISM-XD
+cd CHRISX-MD
 npm install
 npm start
 ```
@@ -199,7 +197,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 ## Credits
 
-- [Hector](https://github.com/OfficialKango)
+- [Hector](https://github.com/Chimbiko-xd)
 - [Baileys](https://github.com/WhiskeySockets)
 - [Cypher-X](https://github.com/Dark-Xploit) 
 - [Matrix](https://github.com/Matri199)
@@ -210,7 +208,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**© CHRISM Bot**
+**© CHRISX Bot**
 ##
 ![MIT License](https://img.shields.io/badge/License-green.svg)
 
