@@ -6,8 +6,9 @@
 </p>
 r
 <p align="center">
-<img src="https://i.imgur.com/1DkLGVk.jpeg" alt="ChrisM-XD Bot" />
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" alt="ChrisM-XD Bot" />
 </p>
+
 
 !-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
