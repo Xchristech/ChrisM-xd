@@ -6,7 +6,7 @@
 </p>
 r
 <p align="center">
-  <img src="https://files.catbox.moe/qumhu4.jpg" />
+<img src="https://i.imgur.com/1DkLGVk.jpeg" alt="ChrisM-XD Bot" />
 </p>
 
 !-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
