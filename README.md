@@ -1,216 +1,194 @@
-<img align="center" height="auto"
-src="https://i.imgur.com/1DkLGVk.jpeg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+A+N+G+O+X+M+D+▇)](https://git.io/typing-svg)
-<br>
 
-   </p>
+/div>
 <p align="center">
-<a href="https://github.com/Chimbiko-xd"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img href="https://wa.me/2348069675806"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
-<p/> 
-
- <p align="center">
-<a href="https://github.com/Chimbiko-xd/followers"><img title="Followers" src="https://img.shields.io/github/followers/Chimbiko-xd?color=purple&style=flat-square"></a>
-<a href="https://github.com/Chimbiko-xd/CHRISX-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/CHRISX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chimbiko-xd/CHRISX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Chimbiko-xd/CHRISX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chimbiko-xd/CHRISX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Chimbiko-xd/CHRISX-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="OfficialKango :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialKango}/count.svg" /></p>
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" alt="ChrisM-XD Bot" />
+</p>
+r
 <p align="center">
-<a href="https://github.com/OfficialKango/KANGO-XMD"Kango"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KANGO-XMD&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://files.catbox.moe/qumhu4.jpg" />
+</p>
+
+!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
+<div align="center">
+
+  <!-- GitHub Stats Badges with new color palette -->
+  <p>
+    <img src="https://img.shields.io/github/forks/Chimbiko-xd/ChrisM-Xd?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/Chimbiko-xd?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/Chimbiko-xd/ChrisM-Xd?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/Chimbiko-xd/ChrisM-Xd?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/Chimbiko-xd/ChrisM-Xd?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+  </p>
+
+  <!-- Hero Image -->
+  <p>
+   26. <img src="https://i.imgur.com/1DkLGVk.jpeg" alt="ChrisM-XD Hero" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </p>
+
+</div>
+
+
+# ChrisM-XD Setup
+
+### 🚀 Fork the Repository
+
+To start, fork this repository to your own GitHub account by clicking the button below:
+
+<a href="https://github.com/Chimbiko-xd/ChrisM-Xd/fork">
+  <img src="https://img.shields.io/github/forks/Chimbiko-xd/ChrisM-Xd?style=for-the-badge&logo=github&color=4c1&label=Fork%20ChrisM-XD" alt="Fork ChrisM-XD" />
 </a>
+
+### 🔑 Get Pairing Code
+
+- **Session ID**
+<p align="left">
+  <a href="https://chrism-session.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Session%20ID-CHRISM--XD-39FF14?style=for-the-badge&logo=react&logoColor=black" alt="Get Pairing Code (Session ID)" /> </a>
+</p>
+- **creds.json**  
+  <p align="left">
+    <a href="https://chrismxd-creds.onrender.com/pair/" target="_blank">
+      <img src="https://img.shields.io/badge/creds.json-00ff99?style=for-the-badge&logo=vercel&logoColor=black" alt="Get Pairing Code (creds.json)" /></a>
+  </p>
+ p align="center">
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" />
+</p>
+
+- **Session App**  
+  <p align="left">
+    <a href="https://chris-session.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Session%20App-39FF14?style=for-the-badge&logo=vercel&logoColor=white" alt="Get Pairing Code (Session App)" /></a>
+  </p>
+
+
+
+
+ p align="center">
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" width="65%" />
+</p>
+
+p align="center" style="color:#777;font-size:13px;">
+  <img src="https://github.com/Chimbiko-xd/ChrisM-Xd/blob/main/assets/warning.gif?raw=true" width="15" />
+  <em>Having connection issues? Try using a VPN.</em>
+</p>
+
+
+<div align="center">
+  <img src="https://github.com/Chimbiko-xd/ChrisM-Xd/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+</div>
+
+h2 align="center">🚀 Deployment Options</h2>
+
+<div align="center">
+  <table cellspacing="20">
+    <tr>
+      <td align="center">
+        <a href="https://dashboard.heroku.com/new?template=https://github.com/Chimbiko-xd/ChrisM-XD" target="_blank">
+          <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+        </a>
+      </td>
+td align="center">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Chimbiko-xd/ChrisM-XD" target="_blank">
+    <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-FF2D95?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"/>
+  </a>
+</td>
+/tr>
+<tr>
+  <td align="center">
+    <a href="https://railway.app/new/template?repository=https://github.com/Chimbiko-xd/ChrisM-XD" target="_blank">
+      <img src="https://img.shields.io/badge/Deploy%20to-Railway-121212?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://dashboard.render.com/blueprint/new?repo=https://github.com/Chimbiko-xd/ChrisM-XD" target="_blank">
+      <img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://app.netlify.com/" target="_blank">
+img src="https://img.shields.io/badge/Deploy%20to-Netlify-00ADB5?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</a>
+</td>
+<td align="center">
+  <a href="https://talkdrove.com" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20ChrisM-XD%20Site-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ChrisM-XD Website"/>
+  </a>
+</td>
+ 
+</tr>
+  </table>
+
+  <p align="center">
+    <a href="https://whatsapp.com/channel/0029VbAWP72CsU9OoOqVhb2g" target="_blank">
+      <img src="https://img.shields.io/badge/View_Workflows-00FF8C?style=for-the-badge&logo=git&logoColor=white" alt="Workflow Codes"/>
+    </a>
+  </p>
+
+  <img src="https://i.imgur.com/vA8BsfZ.gif" width="100%" alt="Divider"/>
+</div>
 <p align="center">
-  <a href="https://github.com/OfficialKango/KANGO-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
-
-<p align='center'>
-    </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 🛠️ `KANGO-XMD INSTALLATION`
-
-
-
-1. Fork and star this repo first
-
-Click the button below to fork KANGO-XMD Repository to your GitHub account:
-
-  <br>
-    <p align="left">
-  <a href="https://github.com/OfficialKango/KANGO-XMD/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-🔑 Get Session ID (WhatsApp Pair Code Login)
-
-> Generate your session ID from the link below:
-<p align="left">
-  <a href="https://kango-ef1f620b32d8.herokuapp.com/?">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
-  </a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-## `DEPLOYMENTS`
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD) 
-
-💯 safe
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-
-[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/OfficialKango/KANGO-XMD)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/_RsRny?referralCode=wvGQ0H)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<details>
-<summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
- 
-* `Fork` KANGO-XMD Repository or `sync` if you had forked.
-* `Link` to your WhatsApp using Server 1, 2 or 3
-* Incase you use Server 2, paste the session id on settings.js @SESSION_ID
-* If you used Server 3, upload the `creds.json` received in the `session` folder.
-* Alternatively; you can open the `creds.json` using `Mt manager` or `treb edit` and copy everything and paste at `creds.json` on the `session` folder.
-* Go to `src>data>role>owner.json` and enter your number.
-* Edit your details at `settings.js` (Optional).
-* Create an `heroku` account if you don't have.
-* Then choose create new app
-* Enter your app name and Create.
-* Connect with your GitHub account.
-* Search KANGO-XMD, and connect.
-* Press deploy and wait for a few minutes.
-* Enjoy.
-</details>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<details>
-<summary>𝘔𝘖𝘙𝘌 𝘋𝘌𝘗𝘓𝘖𝘠𝘔𝘌𝘕𝘛𝘚</summary>
- 
- **• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
-<br>
-> Click below to download the bot file :
-<p align="left">
-<a href="https://github.com/OfficialKango/KANGO-XMD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-  
-> Click below to deploy on Katabump :
-<p align="left">
-  <a href="https://dashboard.katabump.com/welcome/#14aeb2">
-    <img src="https://img.shields.io/badge/Deploy%20to%20Katabump-Hosting-6962a6?style=for-the-badge&logo=katabump&logoColor=red"/>
-  </a>
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-  
-> Click below to deploy on Bot-Hosting :
-<p align="left">
-  <a href="https://bot-hosting.net/?aff=1132461929839984758">
-    <img src="https://img.shields.io/badge/Deploy%20to%20Bot-hosting-9772a6?style=for-the-badge&logo=bothosting&logoColor=white"/>
-  </a>
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" width="100%" />
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+## 📦 Download CHRISM‑XD File
 
- </a>
+> Get the latest bot ZIP file for panel deployment:
 
-</details>
+[![Download ZIP](https://img.shields.io/badge/Download_CHRISM--XD-00FF8C?style=flat-square&logo=github&logoColor=white)](https://github.com/Chimbiko-xd/ChrisM-Xd/archive/refs/heads/main.zip)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<p align="center">
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" width="100%" />
+</p>
 
-<details>
-<summary>𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘖𝘕 𝘗𝘈𝘕𝘌𝘓𝘚</summary>
- 
-1. `Fork` the Repository.
-2. If already forked then `sync` fork repository.
-3. Click on the green `Code` button and click `download as zip`.
-4. `Upload` the script zip file to your `panel`.
-5. `Unarchieve` the uploaded zip file.
-6. Open the `unarchieved folder` and `move` all files to container by typing (`../`)
-7. Now go to `console` and `start` bot.
-8. Wait for `5-10 mins` to enter your number.
-9. Enter your number when requested to get the pair code.
-10. Enter pair code in link devices in whatsapp.
-11. Deployment successful.
-</details>
- 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+### ⚠️ Disclaimer
 
-<details>
-<summary>𝘔𝘈𝘕𝘜𝘈𝘓 𝘐𝘕𝘚𝘛𝘈𝘓𝘓𝘔𝘌𝘕𝘛𝘚</summary>
-  
-## `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-  
-## `CLONE REPO & INSTALLATION DEPENDENCIES`
-```bash
-git clone https://github.com/OfficialKango/KANGO-XMD.git
-cd KANGO-XMD 
-npm start
-```
+- 🔒 This bot, **ChrisM-XD**, is **not affiliated with WhatsApp Inc.** Use it responsibly.  
+- 🚨 **Misuse may lead to account suspension or bans.**  
+- ❌ **Cloning or modifying ChrisM-XD without permission is prohibited.**
 
-## `FOR SSH/UBUNTU/LINUX`
-```bash
-sudo apt-get update
-sudo apt-get upgrade -y
-sudo apt-get install -y bash
-sudo apt-get install -y libwebp
-sudo apt-get install -y git
-sudo apt-get install -y nodejs
-sudo apt-get install -y ffmpeg
-sudo apt-get install -y wget
-sudo apt-get install -y imagemagick
-git clone https://github.com/OfficialKango/KANGO-XMD.git
-cd CHRISX-MD
-npm install
-npm start
-```
+---
 
-## `FOR TERMUX`
-```bash
-apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install bash -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget -y && pkg install imagemagick -y && pkg install yarn && termux-setup-storage
-cd /sdcard
-cd bot folder name
-yarn install
-npm start
-```
+## 🗃️ PROJECT ARCHITECTS
 
-## `FOR 24/7 ACTIVATION PM2 (TERMUX)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-
-## `FOR 24/7 ACTIVATION RE-EXECUTION PM2 (TERMUX)`
-```bash
-npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
-```
-</details>
-
-## Credits
-
-- [Hector](https://github.com/Chimbiko-xd)
-- [Baileys](https://github.com/WhiskeySockets)
-- [Cypher-X](https://github.com/Dark-Xploit) 
-- [Matrix](https://github.com/Matri199)
-
-##
-<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
-</h2>
-
-- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
-
-**© CHRISX Bot**
-##
-![MIT License](https://img.shields.io/badge/License-green.svg)
+<p align="center">
+  <a href="https://github.com/Chimbiko-xd">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chimbiko-xd&show_icons=true&theme=radical">
+  </a>
+</p>
+<div align="center">
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" width="100%"/>
+</div>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+## 🪀  SUPPORT CHANNELS
+
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VbAWP72CsU9OoOqVhb2g">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+  </a>
+</div>
+
+div align="center">
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" width="300"/>
+</div>
+
+> **Level up with ChrisM-XD – stay tuned for updates, tips, and powerful new commands!**
+
+- **▶️ YouTube: ChrisM-XD** – Watch tutorials, pro tricks, and setup walkthroughs  
+  [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CHRISM-XD)
+
+---
+
+## 💯 CHRISM-XD STATUS
+
+```diff
++ Project Status: Active
+! Version: 1.0.0 Neon Edition
+# License: APACHE
+
+<p align="center">
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" />
+</p>
