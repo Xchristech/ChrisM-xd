@@ -6,7 +6,9 @@
 </p>
 r
 <p align="center">
-  <img src="https://i.imgur.com/1DkLGVk.jpeg" alt="ChrisM-XD Bot" />
+  <img src="https://i.imgur.com/gcw2uWW.jpeg" alt="ChrisM-XD Bot" />
+</p>
+
 </p>
 
 
