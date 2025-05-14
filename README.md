@@ -139,5 +139,4 @@ You - For deploying and supporting the project!
 ```
 ---
 
-Would you also like this saved as a downloadable file? I can generate and send it right now.
 
