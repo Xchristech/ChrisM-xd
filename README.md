@@ -1,98 +1,81 @@
 
 
-p align="center">
-  <img src="https://i.imgur.com/1DkLGVk.jpeg" width="200"/>
-</p><p align="center">
-  <strong>ChrisM-XD</strong> is a powerful, multi-functional WhatsApp bot built for automation, moderation, and entertainment.
+<p align="center">
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" alt="ChrisM-XD Bot Image" width="300"/>
 </p>
+
+<h1 align="center">ðŸ¤– ChrisM-XD - WhatsApp Bot</h1>
+
+<p align="center">
+  Your ultimate multipurpose WhatsApp assistant powered by automation, AI, and smart features.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/forks/chimbiko-xd/ChrisM-Xd?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/chimbiko-xd/ChrisM-Xd?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/chimbiko-xd/ChrisM-Xd?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/chimbiko-xd/ChrisM-Xd?style=flat-square" />
+  <img src="https://img.shields.io/badge/version-v3.0.0-orange?style=flat-square" />
+</p>
+
 ---
 
-📲 Connect & Deploy
+## ðŸš€ Features
 
-1. Clone the Bot
+- AI-powered responses
+- Auto-moderation tools
+- Fun and utility commands
+- Group management
+- QR and Pair Code Login
+- And more...
 
-git clone https://github.com/Chimbiko-xd/ChrisM-Xd.git
+---
+
+## ðŸ”Œ Connect & Deploy
+
+1. **Clone the Bot**
+
+```bash
+git clone https://github.com/chimbiko-xd/ChrisM-Xd
 cd ChrisM-Xd
+```
 
-2. Get Session ID or Creds
+2. **Install Dependencies**
 
-Pairing Code (Session ID) <a href="https://chris-session.onrender.com/pair" target="_blank"> <img src="https://img.shields.io/badge/Get%20Pair%20Code-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+```bash
+npm install
+```
 
-creds.json <a href="https://chris-creds.onrender.com/pair" target="_blank"> <img src="https://img.shields.io/badge/Get%20creds.json-ff0000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+3. **Login via Pair Code**
 
+Use this tool to generate your WhatsApp pair code:  
+[Generate Pair Code](https://whatsapp.com/PAIR_CODE_GENERATOR_LINK)
 
-
----
-
-🚀 Deployment Options
-
-<p align="center">
-  <img src="https://github.com/Chimbiko-xd/ChrisM-Xd/blob/main/assets/techwave.gif?raw=true" width="100%"/>
-</p><table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://railway.app/new" target="_blank">
-        <img src="https://img.shields.io/badge/Deploy%20to-Railway-121212?style=for-the-badge&logo=railway&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dashboard.render.com/web/new" target="_blank">
-        <img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
----
-
-👤 Owner Info
-
-> Bot Name: ChrisM-XD
-
-Developer: @Chimbiko-xd
-
-YouTube Channel: CHRISM-XD
-
-Phone: wa.me/2348069675806
-
-
-
-
+Paste the scanned session into the `/SESSION` file.
 
 ---
 
-⚠️ Disclaimer
+## ðŸ›  Run the Bot
 
-ChrisM-XD is not affiliated with WhatsApp Inc.
-
-Use responsibly. Abuse may lead to account suspension.
-
-No cloning or reselling allowed.
-
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%"/>
-</p>
----
-
-⭐ Credits
-
-Built and maintained by @Chimbiko-xd
-
-Inspired by WhatsApp Web APIs
-
-
+```bash
+npm start
+```
 
 ---
 
-📣 Support Channel
+## ðŸ“ž Developer Contact
 
-<a href="https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A">
-  <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
-</a>
+**Developer**: Chimbiko-XD  
+**WhatsApp**: [+234 904 549 9759](https://wa.me/2349045499759)  
+**YouTube**: [@CHRISM-XD](https://www.youtube.com/@CHRISM-XD)  
+**GitHub**: [chimbiko-xd](https://github.com/chimbiko-xd)
+
 ---
 
-🔖 Project Status
+## âš–ï¸ License
 
-+ Project Status: Active
-! Version: 1.0.0
-# License: Apache
+MIT License
+
+---
+
+> Made with love by **ChrisM-XD**
