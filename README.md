@@ -1,8 +1,9 @@
 
 
-/div>
-<p align="center">
-img src="https://i.imgur.com/gcw2uWW.jpeg" alt="ChrisM-XD Bot" />
+<div align="center">
+  <img src="https://i.imgur.com/gcw2uWW.jpeg" width="400" alt="ChrisM-XD Bot" />
+</div>
+
   
 </p>
 r
