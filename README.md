@@ -1,81 +1,143 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/1DkLGVk.jpeg" alt="ChrisM-XD Bot Image" width="300"/>
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" width="200" alt="CHRISM-XD Bot Image"/>
 </p>
 
-<h1 align="center">ðŸ¤– ChrisM-XD - WhatsApp Bot</h1>
+<h1 align="center">🤖 CHRISM-XD - WhatsApp Bot</h1>
 
 <p align="center">
-  Your ultimate multipurpose WhatsApp assistant powered by automation, AI, and smart features.
+  A powerful WhatsApp multi-purpose bot built using Baileys. Easy to deploy, customize, and extend.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/forks/chimbiko-xd/ChrisM-Xd?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/chimbiko-xd/ChrisM-Xd?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/chimbiko-xd/ChrisM-Xd?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/chimbiko-xd/ChrisM-Xd?style=flat-square" />
-  <img src="https://img.shields.io/badge/version-v3.0.0-orange?style=flat-square" />
+  <a href="https://github.com/Chimbiko-xd/ChrisM-XD"><img src="https://img.shields.io/badge/Author-Chimbiko--xd-blue?style=for-the-badge" /></a>
+  <a href="https://whatsapp.com/channel/0029VbAWP72CsU9OoOqVhb2g"><img src="https://img.shields.io/badge/Channel-Join-25D366?style=for-the-badge&logo=whatsapp" /></a>
 </p>
 
 ---
 
-## ðŸš€ Features
+## 🧾 About
 
-- AI-powered responses
-- Auto-moderation tools
-- Fun and utility commands
-- Group management
-- QR and Pair Code Login
-- And more...
+**CHRISM-XD** is a robust WhatsApp bot made to enhance automation, productivity, and entertainment directly inside your WhatsApp chats.  
+From media downloads to group management and AI-powered replies — CHRISM-XD does it all.
 
 ---
 
-## ðŸ”Œ Connect & Deploy
+## 📱 Contact
 
-1. **Clone the Bot**
+- **Developer Name**: Chimbiko
+- **Phone Number**: +2348069675806
+- **GitHub**: [github.com/Chimbiko-xd](https://github.com/Chimbiko-xd)
+- **Repo**: [ChrisM-XD](https://github.com/Chimbiko-xd/ChrisM-XD)
+- **WhatsApp Channel**: [Join Now](https://whatsapp.com/channel/0029VbAWP72CsU9OoOqVhb2g)
+
+---
+
+## 🚀 Deployment Options
+
+Choose one of the platforms below to host your own CHRISM-XD bot instantly:
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://dashboard.heroku.com/new?template=https://github.com/Chimbiko-xd/ChrisM-XD" target="_blank">
+        <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://railway.app/new" target="_blank">
+        <img src="https://img.shields.io/badge/Deploy%20to-Railway-121212?style=for-the-badge&logo=railway&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://dashboard.render.com/deploy?repository=https://github.com/Chimbiko-xd/ChrisM-XD" target="_blank">
+        <img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://talkdrove.com" target="_blank">
+        <img src="https://img.shields.io/badge/Deploy%20to-Talkdrove-FF5722?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ How to Setup
 
 ```bash
-git clone https://github.com/chimbiko-xd/ChrisM-Xd
-cd ChrisM-Xd
+> git clone https://github.com/Chimbiko-xd/ChrisM-XD
+> cd ChrisM-XD
+> npm install
+> npm start
+
+
+---
+
+📦 Get Session (creds.json)
+
+<p align="center">
+  <a href="https://taira-web-service.onrender.com/pair/" target="_blank">
+    <img src="https://img.shields.io/badge/Get%20Session%20(creds.json)-ff0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate creds.json" />
+  </a>
+</p>
+---
+
+❗ Disclaimer
+
+This bot is not affiliated with WhatsApp Inc.
+
+Use at your own risk. You are responsible for your usage.
+
+Abuse or spam will lead to bans. Deploy responsibly.
+
+
+
+---
+
+🏗️ Project Stats
+
++ Project Status: Active
+! Version: 1.0.0
+# License: MIT
+
+
+---
+
+📣 Credits
+
+Baileys - WhatsApp library by @adiwajshing
+
+Imgbb & ImgURL - Media hosting
+
+You - For deploying and supporting the project!
+
+
+
+---
+
+❤️ Support & Share
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbAWP72CsU9OoOqVhb2g">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>> Star the repo and follow @Chimbiko-xd to show your support!
+
+
+
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/1DkLGVk.jpeg" width="100" alt="CHRISM-XD Bot Image"/>
+</p>
 ```
-
-2. **Install Dependencies**
-
-```bash
-npm install
-```
-
-3. **Login via Pair Code**
-
-Use this tool to generate your WhatsApp pair code:  
-[Generate Pair Code](https://whatsapp.com/PAIR_CODE_GENERATOR_LINK)
-
-Paste the scanned session into the `/SESSION` file.
-
 ---
 
-## ðŸ›  Run the Bot
+Would you also like this saved as a downloadable file? I can generate and send it right now.
 
-```bash
-npm start
-```
-
----
-
-## ðŸ“ž Developer Contact
-
-**Developer**: Chimbiko-XD  
-**WhatsApp**: [+234 904 549 9759](https://wa.me/2349045499759)  
-**YouTube**: [@CHRISM-XD](https://www.youtube.com/@CHRISM-XD)  
-**GitHub**: [chimbiko-xd](https://github.com/chimbiko-xd)
-
----
-
-## âš–ï¸ License
-
-MIT License
-
----
-
-> Made with love by **ChrisM-XD**
