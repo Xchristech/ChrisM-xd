@@ -7,9 +7,10 @@
   
 </p>
 
-div align="center">
-  <img src="https://i.imgur.com/gcw2uWW.jpeg" alt="ChrisM-XD Bot" width="400"/>
-</div>
+p align="center">
+  <img src="https://i.imgur.com/G2XG.jpg" width="300" alt="ChrisM-XD Bot Image">
+</p>
+
 
 
 </p>
