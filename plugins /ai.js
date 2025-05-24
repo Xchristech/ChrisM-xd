@@ -3,7 +3,7 @@
 const axios = require("axios");
 const { chris } = require("../chris");
 
-malvin({
+chris({
     pattern: "chris",
     alias: "chris",
     desc: "Interact with ChatGPT using the XD Api.",
