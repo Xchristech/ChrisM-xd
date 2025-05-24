@@ -49,7 +49,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 🔸 Pair Code Authentication
 
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://chrism-xdpair.onrender.com)
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://chrism-xdpair.onrender.com/pair)
 
 > 🔹 QR Code Authentication
 
